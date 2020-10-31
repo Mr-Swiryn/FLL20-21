@@ -10,5 +10,3 @@ from pybricks.tools import wait
 other.doBeep()
 wait(10)
 other.doBeep()
-wait(10)
-other.doBeep()
